@@ -1,6 +1,7 @@
 <h1>console.log("Hola mundo!")</h1>
 
 💻 Desarrollador web
+<br>
 🌱 Aprendiendo React
 ➥ HTML
 ➥ CSS
