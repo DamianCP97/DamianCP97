@@ -4,9 +4,9 @@
 <br>
 🌱 Aprendiendo React
 <br>
-➥ HTML
+➥ HTML5
 <br>
-➥ CSS
+➥ CSS3
 <br>
 ➥ JavaScript
 <br>
